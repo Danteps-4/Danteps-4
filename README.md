@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dante Augsburger</h1>
 <h3 align="center">Python Developer</h3>
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Django**
 
 - 📫 How to reach me **danteaugsburger4@gmail.com**
 
